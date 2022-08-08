@@ -2,7 +2,7 @@
 import java.awt.Color;
 /**
  *
- * @author 24477516
+ * @author 24477516 Cameron Smith
  */
 public class SolarSystem { //this will program a basic solar system using 3DstdDraw, rotation
     public static void  main(String[] args){ //main method we use to run the code
