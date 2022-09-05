@@ -1,7 +1,7 @@
 
 import java.awt.Color;
 /**
- *
+ *using apache netbeans
  * @author 24477516 Cameron Smith
  */
 public class SolarSystem { //this will program a basic solar system using 3DstdDraw, rotation
