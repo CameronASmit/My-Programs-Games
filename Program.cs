@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 // Author Cameron Smith CW2, Programing Module
+// Program to create and complete a binary tree with different searches for numbers such as breath first search and depth first search
 
 
 namespace exercice1
